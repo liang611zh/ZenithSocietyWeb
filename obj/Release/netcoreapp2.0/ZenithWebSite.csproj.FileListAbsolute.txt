@@ -1,0 +1,17 @@
+C:\Users\zhaol\Desktop\Ko_Zhao_ass2\ZenithSociety2\ZenithWebSite\bin\Release\netcoreapp2.0\ZenithWebSite.deps.json
+C:\Users\zhaol\Desktop\Ko_Zhao_ass2\ZenithSociety2\ZenithWebSite\bin\Release\netcoreapp2.0\ZenithWebSite.runtimeconfig.json
+C:\Users\zhaol\Desktop\Ko_Zhao_ass2\ZenithSociety2\ZenithWebSite\bin\Release\netcoreapp2.0\ZenithWebSite.runtimeconfig.dev.json
+C:\Users\zhaol\Desktop\Ko_Zhao_ass2\ZenithSociety2\ZenithWebSite\bin\Release\netcoreapp2.0\ZenithWebSite.dll
+C:\Users\zhaol\Desktop\Ko_Zhao_ass2\ZenithSociety2\ZenithWebSite\bin\Release\netcoreapp2.0\ZenithWebSite.pdb
+C:\Users\zhaol\Desktop\Ko_Zhao_ass2\ZenithSociety2\ZenithWebSite\bin\Release\netcoreapp2.0\zh-CN\ZenithWebSite.resources.dll
+C:\Users\zhaol\Desktop\Ko_Zhao_ass2\ZenithSociety2\ZenithWebSite\obj\Release\netcoreapp2.0\ZenithWebSite.csprojResolveAssemblyReference.cache
+C:\Users\zhaol\Desktop\Ko_Zhao_ass2\ZenithSociety2\ZenithWebSite\obj\Release\netcoreapp2.0\ZenithWebSite.Resources.Controllers.ActivitiesController.zh-CN.resources
+C:\Users\zhaol\Desktop\Ko_Zhao_ass2\ZenithSociety2\ZenithWebSite\obj\Release\netcoreapp2.0\ZenithWebSite.Resources.Views.Activities.Create.zh-CN.resources
+C:\Users\zhaol\Desktop\Ko_Zhao_ass2\ZenithSociety2\ZenithWebSite\obj\Release\netcoreapp2.0\ZenithWebSite.csproj.GenerateResource.Cache
+C:\Users\zhaol\Desktop\Ko_Zhao_ass2\ZenithSociety2\ZenithWebSite\obj\Release\netcoreapp2.0\ZenithWebSite.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\Desktop\Ko_Zhao_ass2\ZenithSociety2\ZenithWebSite\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\zhaol\Desktop\Ko_Zhao_ass2\ZenithSociety2\ZenithWebSite\obj\Release\netcoreapp2.0\ZenithWebSite.AssemblyInfoInputs.cache
+C:\Users\zhaol\Desktop\Ko_Zhao_ass2\ZenithSociety2\ZenithWebSite\obj\Release\netcoreapp2.0\ZenithWebSite.AssemblyInfo.cs
+C:\Users\zhaol\Desktop\Ko_Zhao_ass2\ZenithSociety2\ZenithWebSite\obj\Release\netcoreapp2.0\zh-CN\ZenithWebSite.resources.dll
+C:\Users\zhaol\Desktop\Ko_Zhao_ass2\ZenithSociety2\ZenithWebSite\obj\Release\netcoreapp2.0\ZenithWebSite.dll
+C:\Users\zhaol\Desktop\Ko_Zhao_ass2\ZenithSociety2\ZenithWebSite\obj\Release\netcoreapp2.0\ZenithWebSite.pdb

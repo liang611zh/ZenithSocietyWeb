@@ -1,0 +1,19 @@
+﻿dotnet ef migrations add "First Migration"
+
+dotnet ef database update
+
+
+
+1.run migration need to comment dummydata inside the startup.cs
+
+2.after migration run one time update
+
+3.uncomment dummydata and run update again to seeding data
+
+
+npm install 
+
+ng serve --open
+
+1. first time need to run npm install for angular client
+2.run angular client  use ng serve --open 

@@ -1,0 +1,52 @@
+﻿@model Dictionary<String, List<ZenithWebSite.Models.Event>>
+@using Microsoft.AspNetCore.Authorization
+@inject IAuthorizationService AuthorizationService
+@{
+    ViewBag.Title = "Zenith Society";
+}
+<div style="background:transparent !important" class="jumbotron">
+    <h1 class="text-center">Welcome to Zenith Society</h1>
+    <p class="text-center">Find your events and join us.</p>
+</div>
+<div class="container">
+    <table class="table table-bordered">
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th colspan="2" class="alert-success text-center">
+                    @item.Key
+                </th>
+            </tr>
+            foreach (var details in item.Value)
+            {
+                if (User.Identity.IsAuthenticated)
+                {
+                    <tr>
+                        <td class="alert-dismissable text-center">
+                            @details.EventFrom.ToShortTimeString() - @details.EventTo.ToShortTimeString()
+                        </td>
+                        <td class="alert-dismissable text-center">
+                            @details.Activity.ActivityDescription
+                        </td>
+                    </tr>
+                }
+                else
+                {
+
+                    if (details.IsActive)
+                    {
+                        <tr>
+                            <td class="alert-dismissable text-center">
+                                @details.EventFrom.ToShortTimeString() - @details.EventTo.ToShortTimeString()
+                            </td>
+                            <td class="alert-dismissable text-center">
+                                @details.Activity.ActivityDescription
+                            </td>
+                        </tr>
+                    }
+                }
+
+            }
+        }
+    </table>
+</div>
